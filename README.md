@@ -1,2 +1,2 @@
-# new
+# vanillaJS-ChromeApp
 Created with CodeSandbox
